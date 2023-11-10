@@ -1,0 +1,57 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://wallpapers.com/images/hd/light-background-ikyjig15tfb42tv5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    justify-content: center;
+
+}
+
+.container {
+    margin: auto;
+    height: 100vh;
+    border: 5px solid black;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+
+        /* Sing UP & Sign In CSS Code  */
+.lbl1 {
+    margin-left: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+.inp1 {
+    margin-left: 50px;
+    padding: 10px;
+    font-size:15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+.inp2:hover {
+    background-color: green;
+}
+
+
+    /* Sing up CSS Code  */
+
+.lbl2 {
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+.div1 {
+ 
+    margin-left: 100px;
+
+}
+
